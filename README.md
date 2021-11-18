@@ -20,7 +20,7 @@ I'm a WebMaster for the Youtuber Mateus Andrade, I'm responsible for all manuten
  * Laravel;
 
 ## Graduation
- * analysis and systems development - Universidade Paulista - UNIP 
+ * Analysis and Systems Development - Universidade Paulista - UNIP 
 
 ## Experience 
 
