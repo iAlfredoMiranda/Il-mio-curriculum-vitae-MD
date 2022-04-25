@@ -24,7 +24,7 @@ I'm a WebMaster for the Youtuber Mateus Andrade, I'm responsible for all manuten
 
 ## Experience 
 
-#### Web Master - Mateus Andrade - Unicórnio Digital (01/2021 - Current)
+#### Web Master - Mateus Andrade - Unicórnio Digital (01/2021 - 04/2022)
 I'm a Webmaster responsible for all development and maintenance of site mateusandrade.com.br, usually, I do use WordPress with Elementor for create landpages. I work too with Design Graphic, I create arts graphics and social networks. At this work, I mainly develop skills of Front-End programming (HTML, CSS, JavaScript), PHP and design skills with Adobe Creative (Photoshop, Premiere, InDesign, Illustrator e Xd). Too Soft skills guiding and helping the interns.
 
 #### IT Teacher- EuroAnglo (04/2020 - 12/2020)
